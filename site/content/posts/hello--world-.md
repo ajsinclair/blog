@@ -1,9 +1,9 @@
 +++
-date = "2018-06-16T11:44:00-07:00"
-draft = true
+date = "2018-06-16"
 title = "Hello, world!"
-
+menu = "main"
 +++
+
 # Hello, world!
 
 On this blog I'll be sharing some things I've learned in my short career as a professional Software Developer.

@@ -3,7 +3,7 @@ googleAnalytics = "UA-120966199-1"
 hasCJKLanguage = false
 languageCode = "en"
 theme = "hugo-theme-cactus-plus"
-title = "site title"
+title = "Blog of Andrew Sinclair"
 [params]
 about = ""
 archive = ""
@@ -40,6 +40,5 @@ twitter = "@theajsinclair"
 twittercardimage = ""
 usedescriptionreplacesummary = false
 [social]
-facebook-square = "https://www.facebook.com/"
 github-square = "https://www.github.com/ajsinclair"
 twitter-square = "https://www.twitter.com/theajsinclair"
