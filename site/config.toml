@@ -1,5 +1,5 @@
-baseurl = "your_site_url_address"
-googleAnalytics = "your_google_analytics_id"
+baseurl = "asinclair.io"
+googleAnalytics = "UA-120966199-1"
 hasCJKLanguage = false
 languageCode = "en"
 theme = "hugo-theme-cactus-plus"
@@ -40,6 +40,6 @@ twitter = "@theajsinclair"
 twittercardimage = ""
 usedescriptionreplacesummary = false
 [social]
-facebook-square = "https://www.facebook.com/nodejh"
-github-square = "https://www.github.com/nodejh"
-twitter-square = "https://www.twitter.com/nodejh"
+facebook-square = "https://www.facebook.com/"
+github-square = "https://www.github.com/ajsinclair"
+twitter-square = "https://www.twitter.com/theajsinclair"
