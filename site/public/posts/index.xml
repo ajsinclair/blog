@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog of Andrew Sinclair</title>
+    <link>asinclair.io/posts/</link>
+    <description>Recent content in Posts on Blog of Andrew Sinclair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="asinclair.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, world!</title>
+      <link>asinclair.io/posts/hello--world-/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>asinclair.io/posts/hello--world-/</guid>
+      <description>Hello, world! On this blog I&amp;rsquo;ll be sharing some things I&amp;rsquo;ve learned in my short career as a professional Software Developer.
+First some biographical information. I was born and raised in San Diego, CA. I graduated from California Polytechnic State University San Luis Obispo (Cal Poly) with a B.S. and M.S. in Computer Science. I started my career at Amazon Lab126 in Sunnyvale, CA where I worked on test automation for various Fire OS devices for the HTML5 Platform team.</description>
+    </item>
+    
+  </channel>
+</rss>
