@@ -1,4 +1,4 @@
-baseurl = "asinclair.io/"
+baseurl = "/"
 googleAnalytics = "UA-120966199-1"
 hasCJKLanguage = false
 languageCode = "en"
@@ -16,9 +16,9 @@ customjs = []
 description = "Random knowledge from Andrew"
 disqusshortname = ""
 enablebaiduanalytics = false
-enabledisqus = true
+enabledisqus = false
 enablegoogleanalytics = true
-enablerss = true
+enablerss = false
 enableshare = true
 enablesummary = true
 enabletoc = true
